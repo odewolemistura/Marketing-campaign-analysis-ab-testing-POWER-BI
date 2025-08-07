@@ -64,6 +64,10 @@ These three analysis angles — **performance by campaign**, **by market size**,
 
 ## 📊 Data Analysis (Visuals & Insights)
 
+![image alt](https://github.com/odewolemistura/Marketing-campaign-analysis-ab-testing-POWER-BI/blob/621986387dfe98b2012e766bc3543a651e96dbf5/Campaign%20Dashboard%20Details.png)
+
+![image alt]()
+
 | Visual | Description |
 |--------|-------------|
 | **KPI Cards** | Total Sales, Average Sales per Store, Number of locations tested, Number of market tested |
