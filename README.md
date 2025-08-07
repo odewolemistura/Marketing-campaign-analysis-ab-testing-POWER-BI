@@ -64,9 +64,9 @@ These three analysis angles — **performance by campaign**, **by market size**,
 
 ## 📊 Data Analysis (Visuals & Insights)
 
-![image alt](https://github.com/odewolemistura/Marketing-campaign-analysis-ab-testing-POWER-BI/blob/621986387dfe98b2012e766bc3543a651e96dbf5/Campaign%20Dashboard%20Details.png)
+![image alt](https://github.com/odewolemistura/Marketing-campaign-analysis-ab-testing-POWER-BI/blob/e9b450fc2b538efafd12e2cf1aebdc14add21498/Campaign%20Dashoard.png)
 
-![image alt]()
+![image alt](https://github.com/odewolemistura/Marketing-campaign-analysis-ab-testing-POWER-BI/blob/621986387dfe98b2012e766bc3543a651e96dbf5/Campaign%20Dashboard%20Details.png)
 
 | Visual | Description |
 |--------|-------------|
